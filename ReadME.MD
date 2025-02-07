@@ -5,3 +5,4 @@
 
 1. Fibonacci Algorithm
 2. Arrays
+3. Bubble Sort - Sorts an array from the lowest value to the highest value
